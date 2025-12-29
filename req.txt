@@ -1,0 +1,17 @@
+transformers
+bitsandbytes
+accelerate
+safetensors
+datasets
+evaluate
+huggingface_hub
+peft
+langchain
+langchain-huggingface
+langchain-community
+langchain_openai
+python-dotenv
+faiss-cpu
+pdfplumber
+PyPDF2
+requests
